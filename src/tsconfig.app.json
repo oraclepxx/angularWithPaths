@@ -7,7 +7,7 @@
       "@home": [
         "./home"
       ]
-    },
+    }
   },
   "exclude": [
     "test.ts",
